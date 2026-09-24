@@ -8,7 +8,7 @@
 1. Сделайте копию проекта (форк) на GitHub — кнопка **Fork** в правом верхнем углу.
 2. Скачайте проект на свой компьютер:
    ```bash
-   git clone https://github.com/kakyosef/taskmaster.git
+   git clone https://github.com/kakyosef/markdown.git
    ```
 3. Перейдите в папку проекта:
    ```bash
