@@ -19,7 +19,7 @@ TaskMaster — это простое приложение для записи и
 
 1. Скачайте проект с GitHub:
    ```bash
-   git clone https://github.com/taskmaster-team/taskmaster.git
+   git clone https://github.com/kakyosef/taskmaster.git
    ```
 2. Перейдите в папку проекта:
    ```bash
@@ -54,6 +54,6 @@ TaskMaster распространяется под лицензией **MIT**.
 ## Контакты
 
 Есть вопросы или идеи? Пишите в **Issues** на GitHub:
-[github.com/taskmaster-team/taskmaster/issues](https://github.com/taskmaster-team/taskmaster/issues)
+[github.com/kakyosef/taskmaster/issues](https://github.com/kakyosef/taskmaster/issues)
 
 Хотите помочь с кодом? Прочитайте [CONTRIBUTING.md](CONTRIBUTING.md).
