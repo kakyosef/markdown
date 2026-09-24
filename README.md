@@ -19,7 +19,7 @@ TaskMaster — это простое приложение для записи и
 
 1. Скачайте проект с GitHub:
    ```bash
-   git clone https://github.com/kakyosef/taskmaster.git
+   git clone https://github.com/kakyosef/markdown.git
    ```
 2. Перейдите в папку проекта:
    ```bash
