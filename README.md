@@ -54,6 +54,6 @@ TaskMaster распространяется под лицензией **MIT**.
 ## Контакты
 
 Есть вопросы или идеи? Пишите в **Issues** на GitHub:
-[github.com/kakyosef/taskmaster/issues](https://github.com/kakyosef/taskmaster/issues)
+[github.com/kakyosef/markdown/issues](https://github.com/kakyosef/markdown/issues)
 
 Хотите помочь с кодом? Прочитайте [CONTRIBUTING.md](CONTRIBUTING.md).
